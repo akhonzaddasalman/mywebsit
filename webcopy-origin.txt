@@ -1,0 +1,2024 @@
+Uri: https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap
+File Name: E:\My website\SkaTech.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A-gdyEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A-gdyEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A1EayEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A1EayEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A2gayEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A2gayEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A4QdyEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A4QdyEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A7YdyEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A7YdyEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3Ax8ayEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3Ax8ayEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3AzYayEU.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3AzYayEU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_chQF5e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_chQF5e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQF5e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQF5e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QF5e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QF5e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_ehR15e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_ehR15e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_eYR15e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_eYR15e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR15e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR15e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/figtree/v6/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_f_R15e.ttf
+File Name: E:\My website\SkaTech.vercel.app\s\figtree\v6\_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_f_R15e.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/about.html
+File Name: E:\My website\SkaTech.vercel.app\about.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/about.html
+File Name: E:\My website\SkaTech.vercel.app\about.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/assets/css/aos.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/bootstrap.min.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/fontawesome.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/magnific-popup.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/main.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/mobile-menu.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\mobile-menu.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/nice-select.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/owl.carousel.min.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/slick-slider.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\slick-slider.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/css/swiper-bundle.css
+File Name: E:\My website\SkaTech.vercel.app\assets\css\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-brands-400.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-brands-400.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-duotone-900.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-duotone-900.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-light-300.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-light-300.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-regular-400.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-regular-400.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-solid-900.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-solid-900.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-thin-100.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-thin-100.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-v4compatibility.ttf
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://SkaTech.vercel.app/assets/fonts/fa-v4compatibility.woff2
+File Name: E:\My website\SkaTech.vercel.app\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about-tab-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about-tab-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about1-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about1-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about1-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about1-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about2-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about2-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about2-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about2-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about2-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about2-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about3-image1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about3-image1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about3-image2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about3-image2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about3-image3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about3-image3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about4-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about4-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about4-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about4-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about4-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about4-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about5-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about5-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about6-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about6-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about7-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about7-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about9-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about9-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/about9-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\about9-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/skill7-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\skill7-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/visiton-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\visiton-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/visiton-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\visiton-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/about/visiton-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\about\visiton-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/about3-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\about3-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/body2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\body2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/bottom-shape2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\bottom-shape2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/comon-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\comon-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/footer-bg3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\footer-bg3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero-bg7.jpg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero-bg7.jpg
+Content Type: image/jpeg
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero1-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero1-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero10-bg.jpg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero10-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero2-main-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero2-main-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero2-main-bg2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero2-main-bg2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero3-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero3-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero4-main-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero4-main-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero5-bg.jpg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero5-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero6-bg1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero6-bg1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero6-bg2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero6-bg2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/hero9-bg.jpg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\hero9-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/skill7-bg.jpg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\skill7-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/testimonial4-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\testimonial4-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/bg/work-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\bg\work-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-details-sidebar1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-details-sidebar1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-details-sidebar2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-details-sidebar2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-details-sidebar3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-details-sidebar3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog-post-video-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog-post-video-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog2-img8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog2-img8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog3-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog3-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog3-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog3-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog4-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog4-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog4-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog4-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog5-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog5-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog5-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog5-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog6-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog6-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog6-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog6-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog6-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog6-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog9-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog9-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/blog9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\blog9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/comment-box-image1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\comment-box-image1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/blog/comment-box-image2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\blog\comment-box-image2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/cooming.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\cooming.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo10.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo10.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo11.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo11.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo12.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo12.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/demo/demo9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\demo\demo9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero1-image1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero1-image1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero1-image2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero1-image2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero1-image3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero1-image3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero1-image4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero1-image4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero10-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero10-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero2-main-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero2-main-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero2-main-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero2-main-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero3-main-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero3-main-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero4-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero4-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero4-main-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero4-main-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero5-main-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero5-main-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero7-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero7-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero8-main-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero8-main-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero9-image1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero9-image1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/hero/hero9-image2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\hero\hero9-image2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about-page-qute.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about-page-qute.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about-solution-iocn1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about-solution-iocn1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about-solution-iocn2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about-solution-iocn2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about1-shape-icon.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about1-shape-icon.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about5-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about5-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/about5-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\about5-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/blog-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\blog-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/blog-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\blog-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/button-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\button-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon4.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon5.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/case8-icon6.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\case8-icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/choose8-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\choose8-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/choose8-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\choose8-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/choose8-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\choose8-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact-page-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact-page-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact-page-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact-page-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact-page-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact-page-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact5-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact5-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact5-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact5-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact5-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact5-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact6-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact6-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact6-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact6-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact6-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact6-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact9-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact9-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact9-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact9-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/contact9-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\contact9-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/date.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\date.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/date3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\date3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/date6.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\date6.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/download-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\download-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/footer1-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\footer1-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/footer1-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\footer1-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/footer1-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\footer1-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/footer1-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\footer1-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/header-top-span.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\header-top-span.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/header1-icon.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\header1-icon.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero-bottom-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero-bottom-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero-bottom-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero-bottom-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero-bottom-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero-bottom-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero-bottom-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero-bottom-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero10-box-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero10-box-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/hero10-box-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\hero10-box-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/main-heading-span3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\main-heading-span3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/qute.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\qute.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/qute6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\qute6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/qute7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\qute7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/qute8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\qute8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/qute9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\qute9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-icon5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-icon5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service-page-icon9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service-page-icon9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service10-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service10-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service10-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service10-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service10-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service10-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service10-icon4.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service10-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service10-icon5.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service10-icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service2-icon9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service2-icon9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service3-iocn6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service3-iocn6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service4-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service4-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service4-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service4-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service4-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service4-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service4-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service4-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service5-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service5-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service5-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service5-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service5-icon4.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service5-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service5-icon5.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service5-icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service5-icon6.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service5-icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon4.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon5.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service6-icon6.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service6-icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service7-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service7-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service7-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service7-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service7-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service7-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service8-icon1.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service8-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service8-icon2.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service8-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service8-icon3.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service8-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/service8-icon4.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\service8-icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/solution-iocn1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\solution-iocn1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/solution-iocn2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\solution-iocn2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/span1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\span1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/span2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\span2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/span9.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\span9.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/tag6.svg
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\tag6.svg
+Content Type: image/svg+xml
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/tes2-icon.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\tes2-icon.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/user-icon1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\user-icon1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/user-icon2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\user-icon2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/user-icon3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\user-icon3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/user-icon4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\user-icon4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/user.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\user.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/work-iocn1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\work-iocn1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/work-iocn2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\work-iocn2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/icons/work-iocn3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\icons\work-iocn3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/brands6-logo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\brands6-logo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/brands6-logo2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\brands6-logo2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/brands6-logo3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\brands6-logo3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/brands6-logo4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\brands6-logo4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/brands6-logo5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\brands6-logo5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/footer-logo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\footer-logo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/footer-logo7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\footer-logo7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo10.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo10.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header-logo9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header-logo9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header3-logo.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header3-logo.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/header4-logo.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\header4-logo.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/marquee5-logo8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\marquee5-logo8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/preloader3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\preloader3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/slider-logo7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\slider-logo7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/titel2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\titel2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/titile.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\titile.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/logo/title5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\logo\title5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/case8-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\case8-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/cta4-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\cta4-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/cta9-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\cta9-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/cta9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\cta9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/error.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\error.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/faq6-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\faq6-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/industris-img8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\industris-img8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-details-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-details-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project-page-img9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project-page-img9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project3-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project3-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project3-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project3-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project3-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project3-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project3-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project3-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project4-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project4-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project4-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project4-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project4-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project4-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/project4-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\project4-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/review-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\review-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/solution-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\solution-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/solution-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\solution-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/others/solution-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\others\solution-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service-details-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service-details-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service10-bg.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service10-bg.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service3-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service3-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service7-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service7-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service7-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service7-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/service/service7-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\service\service7-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/about3-shape1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\about3-shape1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/about5-shap.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\about5-shap.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/cta4-shape1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\cta4-shape1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/cta4-shape2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\cta4-shape2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/header1-shape1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\header1-shape1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/header1-shape2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\header1-shape2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero2-shape1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero2-shape1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero2-shape2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero2-shape2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero3-arrow-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero3-arrow-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero3-circle-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero3-circle-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero4-image-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero4-image-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero5-arrow-bottom.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero5-arrow-bottom.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero5-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero5-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero6-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero6-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero7-shape1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero7-shape1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero7-shape2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero7-shape2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero7-shape3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero7-shape3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero7-shape7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero7-shape7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/hero9-arrow.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\hero9-arrow.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/image-shape3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\image-shape3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/video9-shape.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\video9-shape.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/shapes/work5-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\shapes\work5-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img10.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img10.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img11.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img11.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img12.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img12.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img7.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img7.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img8.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img8.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team2-img9.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team2-img9.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team5-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team5-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team5-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team5-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team5-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team5-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team5-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team5-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team6-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team6-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team6-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team6-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/team/team6-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\team\team6-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes1-big-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes1-big-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes1-smoll-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes1-smoll-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes10-big-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes10-big-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes10-smoll-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes10-smoll-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes4-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes4-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes4-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes4-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes4-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes4-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes4-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes4-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes4-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes4-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes5-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes5-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes5-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes5-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes5-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes5-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes6-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes6-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes6-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes6-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes6-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes6-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes7-big-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes7-big-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes7-smoll-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes7-smoll-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes9-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes9-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/testimonial/tes9-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\testimonial\tes9-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case10-img6.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case10-img6.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case9-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case9-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case9-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case9-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/case9-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\case9-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/choose8-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\choose8-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project6-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project6-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project6-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project6-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/project6-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\project6-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work2-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work2-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work2-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work2-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work2-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work2-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work2-img4.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work2-img4.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work2-img5.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work2-img5.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work3-img.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work3-img.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work7-image.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work7-image.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work9-img1.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work9-img1.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work9-img2.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work9-img2.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/img/work/work9-img3.png
+File Name: E:\My website\SkaTech.vercel.app\assets\img\work\work9-img3.png
+Content Type: image/png
+
+Uri: https://SkaTech.vercel.app/assets/js/aos.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/bootstrap.min.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/fontawesome.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\fontawesome.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/gsap.min.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/jquery-3-7-1.min.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\jquery-3-7-1.min.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/jquery.countup.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\jquery.countup.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/jquery.lineProgressbar.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\jquery.lineProgressbar.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/jquery.magnific-popup.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/main.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/mobile-menu.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\mobile-menu.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/owl.carousel.min.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/ripple-btn.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\ripple-btn.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/ScrollTrigger.min.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/slick-slider.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\slick-slider.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/SmoothScroll.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/Splitetext.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\Splitetext.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/swiper-bundle.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\swiper-bundle.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/assets/js/text-animation.js
+File Name: E:\My website\SkaTech.vercel.app\assets\js\text-animation.js
+Content Type: application/javascript
+
+Uri: https://SkaTech.vercel.app/blog-details-left.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details-left.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-details-left2.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details-left2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-details-right.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details-right.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-details-right2.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details-right2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-details.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-details2.html
+File Name: E:\My website\SkaTech.vercel.app\blog-details2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog-sidebar.html
+File Name: E:\My website\SkaTech.vercel.app\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog.html
+File Name: E:\My website\SkaTech.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/blog.html
+File Name: E:\My website\SkaTech.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/contact.html
+File Name: E:\My website\SkaTech.vercel.app\contact.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/error.html
+File Name: E:\My website\SkaTech.vercel.app\error.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index.html
+File Name: E:\My website\SkaTech.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index10.html
+File Name: E:\My website\SkaTech.vercel.app\index10.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index2.html
+File Name: E:\My website\SkaTech.vercel.app\index2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index3.html
+File Name: E:\My website\SkaTech.vercel.app\index3.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index4.html
+File Name: E:\My website\SkaTech.vercel.app\index4.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index5.html
+File Name: E:\My website\SkaTech.vercel.app\index5.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index6.html
+File Name: E:\My website\SkaTech.vercel.app\index6.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index7.html
+File Name: E:\My website\SkaTech.vercel.app\index7.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index8.html
+File Name: E:\My website\SkaTech.vercel.app\index8.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/index9.html
+File Name: E:\My website\SkaTech.vercel.app\index9.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details-left.html
+File Name: E:\My website\SkaTech.vercel.app\project-details-left.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details-left2.html
+File Name: E:\My website\SkaTech.vercel.app\project-details-left2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details-right.html
+File Name: E:\My website\SkaTech.vercel.app\project-details-right.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details-right2.html
+File Name: E:\My website\SkaTech.vercel.app\project-details-right2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details.html
+File Name: E:\My website\SkaTech.vercel.app\project-details.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project-details2.html
+File Name: E:\My website\SkaTech.vercel.app\project-details2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project.html
+File Name: E:\My website\SkaTech.vercel.app\project.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/project.html
+File Name: E:\My website\SkaTech.vercel.app\project.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details-left.html
+File Name: E:\My website\SkaTech.vercel.app\service-details-left.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details-left2.html
+File Name: E:\My website\SkaTech.vercel.app\service-details-left2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details-right.html
+File Name: E:\My website\SkaTech.vercel.app\service-details-right.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details-right2.html
+File Name: E:\My website\SkaTech.vercel.app\service-details-right2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details.html
+File Name: E:\My website\SkaTech.vercel.app\service-details.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service-details2.html
+File Name: E:\My website\SkaTech.vercel.app\service-details2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service.html
+File Name: E:\My website\SkaTech.vercel.app\service.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/service.html
+File Name: E:\My website\SkaTech.vercel.app\service.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index1.html
+File Name: E:\My website\SkaTech.vercel.app\single-index1.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index10.html
+File Name: E:\My website\SkaTech.vercel.app\single-index10.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index2.html
+File Name: E:\My website\SkaTech.vercel.app\single-index2.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index3.html
+File Name: E:\My website\SkaTech.vercel.app\single-index3.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index4.html
+File Name: E:\My website\SkaTech.vercel.app\single-index4.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index5.html
+File Name: E:\My website\SkaTech.vercel.app\single-index5.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index6.html
+File Name: E:\My website\SkaTech.vercel.app\single-index6.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index7.html
+File Name: E:\My website\SkaTech.vercel.app\single-index7.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index8.html
+File Name: E:\My website\SkaTech.vercel.app\single-index8.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/single-index9.html
+File Name: E:\My website\SkaTech.vercel.app\single-index9.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/team.html
+File Name: E:\My website\SkaTech.vercel.app\team.html
+Content Type: text/html
+
+Uri: https://SkaTech.vercel.app/testimonial.html
+File Name: E:\My website\SkaTech.vercel.app\testimonial.html
+Content Type: text/html
+
